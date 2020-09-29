@@ -1,0 +1,66 @@
+
+li{
+	list-style: none;
+}
+.footer-bottom li{
+	display: inline;
+}
+.juel li{
+	padding-left:20px ;
+}
+.sourov{
+border-bottom:2px solid black;	
+
+}
+.footer{
+background-color:#F0F0F0;
+}
+.footer-bottom{
+margin-top:40px ;
+
+}
+.robi li{
+padding-left: 20px;
+}
+.rahim ul{
+padding-left:0px ;
+
+}
+.jony{
+background-color:lightblue ;
+	padding:25px;
+}
+.rony{
+	width:300px;
+	height:250px;
+	background-color:lightblue ;
+	padding:25px;
+}
+.bony{
+	width:300px;
+	height:250px;
+	background-color:lightblue ;
+padding:25px;
+}
+h1{
+color:lightblue;
+}
+.a{
+	color:lightblue;
+		
+}
+
+	
+	
+
+.border-bottom{
+	border-bottom:2px solid black;
+	padding-bottom:20px;
+	OVERFLOW:HIDDEN;
+}
+.header-top{
+width:1200px;	
+height:150px;
+background-color:blue;
+margin-top:20px;	
+}
