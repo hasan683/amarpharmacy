@@ -72,7 +72,7 @@ padding-bottom: 36px;
 }
 h1{
 color:#FFFFFF;
-padding-left: 25px;
+padding-left: 165px;
 }
 p{
 	color:#F0F0F0;
@@ -85,11 +85,23 @@ margin-bottom: 40px;
 .all-Categories{
 border-right: 2px solid white;
 padding-top: 20px;
-padding-left: 100px;
+padding-left:211px;
 }
 .language{
 border-left: 2px solid #FFFFFF ;
 padding-top: 20px;
-padding-left: 20px;
+}
+.everything{
+padding-top: 20px;
 
 }
+.pic{
+	
+	margin-top: 40px;
+}
+
+
+
+
+
+
