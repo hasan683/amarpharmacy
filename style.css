@@ -99,9 +99,17 @@ padding-top: 20px;
 	
 	margin-top: 40px;
 }
+.mx{
+	color:lightblue;
+}
+.vedio{
+border-bottom: 2px solid black;
+}
+.volt{
+background-color: lightblue;
 
-
-
-
-
+}
+.align{
+	text-align: center;
+}
 
