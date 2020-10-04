@@ -20,29 +20,7 @@ background-color:#F0F0F0;
 margin-top:40px ;
 
 }
-.robi li{
-padding-left: 20px;
-}
-.rahim ul{
-padding-left:0px ;
 
-}
-.jony{
-background-color:lightblue ;
-	padding:25px;
-}
-.rony{
-	width:300px;
-	height:250px;
-	background-color:lightblue ;
-	padding:25px;
-}
-.bony{
-	width:300px;
-	height:250px;
-	background-color:lightblue ;
-padding:25px;
-}
 h1 a, h1 a:hover{
 color:#FFFFFF;
 }
@@ -106,6 +84,7 @@ border-bottom: 2px solid black;
 }
 .volt{
 background-color: lightblue;
+padding-bottom: 32px;
 
 }
 .align{
@@ -145,7 +124,7 @@ background-color: lightblue;
 	position: absolute;
 	top: -25px;
 }
-.order-no{
+.order-now{
 	padding-left: 33px;
 	padding-top: 80px;	
 }
@@ -173,8 +152,14 @@ padding-left: 20px;
 .terms{
 	padding-left: 24px;
 }
-.a{
-
+li{
+	list-style-type: none;
+}
+.footer-top{
+	margin-top: 58px;
+}
+.background-color{
+	background-color: #707070;
 }
 
 
