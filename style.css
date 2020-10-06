@@ -85,10 +85,16 @@ border-bottom: 2px solid black;
 .volt{
 background-color: lightblue;
 padding-bottom: 32px;
+padding:20px;
 
 }
 .align{
 	text-align: center;
+	margin-top: 24px;
+	color:lightblue;
+}
+
+
 }
 .pink{
 	border:1px solid #707070  ;
@@ -157,11 +163,28 @@ li{
 }
 .footer-top{
 	margin-top: 58px;
+                        
 }
 .background-color{
 	background-color: #707070;
 }
+.daily-essential{
+	background-color: #707070; 
+}
+.sd{
+	margin-top: 38px;
 
+}
+.company{
+	padding-left: 0px;
+}
+.mahmud-hossain{
+	margin-top: 34px;
+}
+.sd{
+	margin-top: 38px;
+}
+	
 
 
 
