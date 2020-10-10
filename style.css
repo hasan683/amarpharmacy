@@ -6,6 +6,7 @@ a, a:hover{
 .footer-bottom li{
 	display: inline;
 }
+
 .juel li{
 	padding-left:20px ;
 }
@@ -28,10 +29,6 @@ color:#FFFFFF;
 	color:lightblue;
 		
 }
-
-	
-	
-
 .border-bottom{
 	border-bottom:2px solid black;
 	padding-bottom:20px;
@@ -71,22 +68,26 @@ padding-top: 20px;
 padding-top: 20px;
 
 }
-.pic{
-	
+.pic {
 	margin-top: 40px;
 }
 .mx{
 	color:lightblue;
 	margin-top: 12px;
 }
-.vedio{
-border-bottom: 2px solid black;
+.btn {
+    padding: 0;
+    border-bottom: none;
+    margin-bottom: 10px;
+    color: #808080;
+}
+.vedio {
+border-bottom: 1px solid #808080;
 }
 .volt{
 background-color: lightblue;
 padding:20px;
 font-size: small;
-
 }
 .align{
 	text-align: center;
@@ -117,27 +118,21 @@ font-size: small;
 	border-top: 25px solid #A3D8E6 ;
 	margin-top: 25px;
 	padding-bottom: 30px;
-
 }
 .healthcare-products{
 	padding-left: 23px;
 	padding-top: 18px;
-
 }
 .babycare-products{
 	padding-left: 23px;
 	padding-top: 18px;
 }
-
-	
-
 .form-control{
 	padding-left: 417px;
 }
 .itmes{
 color:white;
 padding-left: 20px;
-
 }
 .login{
 	color:white;
@@ -160,14 +155,10 @@ li{
 	padding-bottom: 10px;
 }
 .footer-top{
-	margin-top: 58px;
-                        
+	margin-top: 58px;     
 }
 .background-color{
 	background-color: lightgrey;
-}
-.daily-essential{
-	background-color: #707070; 
 }
 .sd{
 	margin-top: 38px;
@@ -199,9 +190,6 @@ health-articles{
 }
 .quetetion{
 font-size: xx-large;
-}
-.btn{
-	padding-left: 0px;
 }
 .ebd{
 	font-size: large;
@@ -250,100 +238,134 @@ font-size: xx-large;
 }
 .daily-essential {
     background: #E8F2E9;
-    font-size: 21px;
+    font-size: 20px;
 }
 .h6-1 {
-    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
+    margin-top: 10px;
 }
 .h6-2 {
-    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
 }
 .h6-3 {
-    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
 }
 .h6-4 {
-    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
-    
 }
 .diabetic-care {
     background: #E6F5F2;
-    font-size: 21px;
+    font-size: 20px;
 }
 .Diabetic {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .Diabetic-2 {
     background:  #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .Diabetic-3 {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .Diabetic-4 {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .personal-care {
     background: #E9F1F4;
-    font-size: 21px;
-    color: 
+    font-size: 20px;
 }
 .care {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .care-1 {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .care-2 {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .care-3{
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .Nutrition {
     background: #F4ECE9;
-    font-size: 21px;
+    font-size: 20px;
 }
 .vitamin {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .vitamin-1 {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .vitamin-2 {
     background: #ffffff;
     text-align:center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .vitamin-3 {
     background: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text{
+    color: #808080; 
+}
+.text-2 h6 {
+    color: #808080;
+}
+.volt {
+    background: #BFFFFF;
+}
+.mx {
+    color: #02A7BC;
+}
+.mahmud-hossain {
+    color: #808080;
+}
+.sep-2020 {
+    color: #808080;
+}
+.align {
+    color: #45CEC2;
+}
+.text-1 h6 {
+    color: #808080;
+}
+.text-2 h6 {
+    color: #808080;
+}
+.text-3 h6 {
+    color: #808080;
+}
+.Health-Articles {
+    margin-top: 30px;
+}
+.Top-Categoriesa{
+    margin-top: 30px;
+}
+.Featured-Brands {
+    margin-top: 30px;
 }
