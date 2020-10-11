@@ -6,7 +6,6 @@ a, a:hover{
 .footer-bottom li{
 	display: inline;
 }
-
 .juel li{
 	padding-left:20px ;
 }
@@ -23,12 +22,16 @@ margin-top:40px ;
 }
 
 h1 a, h1 a:hover{
-color:skyblue;
+color:#FFFFFF;
 }
 .a{
-	color:white;
+	color:lightblue;
 		
 }
+
+	
+	
+
 .border-bottom{
 	border-bottom:2px solid black;
 	padding-bottom:20px;
@@ -51,7 +54,7 @@ color:#FFFFFF;
 padding-left: 145px;
 }
 .bottom{
-background-color:#02A7BC;
+	background-color:#02A7BC;
 margin-top: 2px;
 margin-bottom: 40px;
 }
@@ -68,22 +71,22 @@ padding-top: 20px;
 padding-top: 20px;
 
 }
-.pic {
+.pic{
+	
 	margin-top: 40px;
 }
-.btn {
-    padding: 0;
-    border-bottom: none;
-    margin-bottom: 10px;
-    color: #808080;
+.mx{
+	color:lightblue;
+	margin-top: 12px;
 }
-.vedio {
-border-bottom: 1px solid #808080;
+.vedio{
+border-bottom: 2px solid black;
 }
 .volt{
 background-color: lightblue;
 padding:20px;
 font-size: small;
+
 }
 .align{
 	text-align: center;
@@ -114,21 +117,27 @@ font-size: small;
 	border-top: 25px solid #A3D8E6 ;
 	margin-top: 25px;
 	padding-bottom: 30px;
+
 }
 .healthcare-products{
 	padding-left: 23px;
 	padding-top: 18px;
+
 }
 .babycare-products{
 	padding-left: 23px;
 	padding-top: 18px;
 }
+
+	
+
 .form-control{
 	padding-left: 417px;
 }
 .itmes{
 color:white;
 padding-left: 20px;
+
 }
 .login{
 	color:white;
@@ -151,10 +160,14 @@ li{
 	padding-bottom: 10px;
 }
 .footer-top{
-	margin-top: 58px;     
+	margin-top: 58px;
+                        
 }
 .background-color{
 	background-color: lightgrey;
+}
+.daily-essential{
+	background-color: #707070; 
 }
 .sd{
 	margin-top: 38px;
@@ -187,9 +200,11 @@ health-articles{
 .quetetion{
 font-size: xx-large;
 }
+.btn{
+	padding-left: 0px;
+}
 .ebd{
 	font-size: large;
-    color: #52575F;
 }
 .diabetic-care{
 	background-color: lightgrey;
@@ -233,186 +248,102 @@ font-size: xx-large;
     background: #F4ECE9;
     text-align: center;
 }
-.Daily-Essential {
+.daily-essential {
     background: #E8F2E9;
     font-size: 21px;
-    color: #52575F;
 }
-.Daily-Essential p {
-    margin-left: 10px;
-}
-.Daily-1 {
+.h6-1 {
+    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
 }
-.Daily-2 {
+.h6-2 {
+    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
 }
-.Daily-3 {
+.h6-3 {
+    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
 }
-.Daily-4 {
+.h6-4 {
+    margin-bottom: 10px;
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    
 }
 .diabetic-care {
     background: #E6F5F2;
     font-size: 21px;
-    color: #52575F;
 }
-.diabetic-care p {
-    margin-left: 10px;
-}
-.Diabetic-1 {
+.Diabetic {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin-top: 10px;
 }
 .Diabetic-2 {
     background:  #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    margin-top: 10px;
 }
 .Diabetic-3 {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin-top: 10px;
 }
 .Diabetic-4 {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    margin-top: 10px;
 }
 .personal-care {
     background: #E9F1F4;
     font-size: 21px;
-    color: #52575F;
-}
-.personal-care p {
-    margin-left: 10px;
+    color: 
 }
 .care {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin-top: 10px;
 }
 .care-1 {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    margin-top: 10px;
 }
 .care-2 {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin-top: 10px;
 }
 .care-3{
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    margin-top: 10px;
 }
 
 .Nutrition {
     background: #F4ECE9;
     font-size: 21px;
-    color: #52575F;
 }
-.Nutrition p {
-    margin-left: 10px;
-} 
 .vitamin {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin-top: 10px;
 }
 .vitamin-1 {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    margin-top: 10px;
 }
 .vitamin-2 {
     background: #ffffff;
     text-align:center;
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin-top: 10px;
 }
 .vitamin-3 {
     background: #ffffff;
     text-align: center;
-    margin-bottom: 10px;
-    margin-right: 10px;
-}
-.text{
-    color: #808080; 
-}
-.text-2 h6 {
-    color: #808080;
-}
-.volt {
-    background: #BFFFFF;
-}
-.mx {
-    color: #02A7BC;
-}
-.mahmud-hossain {
-    color: #808080;
-}
-.sep-2020 {
-    color: #808080;
-}
-.align {
-    color: #45CEC2;
-}
-.text-1 h6 {
-    color: #808080;
-}
-.text-2 h6 {
-    color: #808080;
-}
-.text-3 h6 {
-    color: #808080;
-}
-.Health-Articles {
-    margin-top: 30px;
-    color: #52575F;
-    display: block;
-}
-.Top-Categoriesa{
-    margin-top: 30px;
-    color: #52575F;
-    display: block;
-}
-.Featured-Brands {
-    margin-top: 30px;
-    color: #52575F;
-    display: block;
-}
-.medicine {
-    color: #02A7BC;
-}
-.Healthcare-Products {
-    color: #FF9700;
-}
-.Baby-Care {
-    color: #8AC249;
+    margin-top: 10px;
 }
