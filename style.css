@@ -416,3 +416,102 @@ font-size: xx-large;
 .Baby-Care {
     color: #8AC249;
 }
+.Please {
+    padding-top: 30px;
+    color: #808080;
+}
+.prescription {
+    margin-top: 30px;
+}
+.uplode {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff; 
+    color: #02A7BC;
+    padding: 20px;
+}
+.h5-1 {
+    padding-top:17px;
+}
+.h5-1 h5 a {
+    color: #02A7BC;
+    margin-left: 70px;
+}
+.form {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    color: #02A7BC;
+    padding: 20px;
+}
+.h5-2 {
+    margin-top: 10px;
+}
+.h5-2 h5 a {
+    color: #02A7BC;
+    margin-left: 45px;
+}
+
+.see-uplode {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    color: #02A7BC;
+    padding: 20px;
+}
+.h5-3 {
+    margin-top: 10px;
+}
+.h5-3 h5 a {
+    color: #02A7BC;
+    margin-left: 70px;
+}
+.checkout {
+    border: 1px solid #808080;
+    background: #02A7BC;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 10px;
+}
+.h5-4 h5 a {
+    color: #ffffff;
+    margin-left: 16px;
+}
+.what {
+    margin-top: 20px;
+    color: #808080;
+}
+.Dont-have {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    color: #02A7BC;
+    padding: 10px;
+    margin-top: 30px;
+}
+.Dont-have select {
+    border: none;
+    color: #02A7BC;
+    margin-left: 18px;
+}
+.add {
+    font-size: 10px;
+    margin-left: 43px;
+    color: #808080;
+}
+.message {
+    border: 1px solid #808080;
+    border-radius: 8px;
+    background: #02A7BC;
+    margin-left: 43px;
+    margin-top: 0.5px;
+    overflow: hidden;
+}
+.message h5 {
+    margin-left: 20px;
+    color: white;
+}
+
+.now {
+    color: #ffffff; 
+}
