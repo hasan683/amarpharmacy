@@ -515,3 +515,160 @@ font-size: xx-large;
 .now {
     color: #ffffff; 
 }
+.background {
+background : #E1ECEE;
+}
+.cart {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    margin-top: 30px;
+    color: #808080;
+}
+.summary {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    color: #808080;
+    margin-top: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.summary h4 {
+    border-bottom: 1px solid #808080;
+    color: #02A7BC;
+    text-align: center;
+     margin-top: 10px;
+    margin-bottom: 10px;
+}
+.subtotal {
+    border-bottom: 1px solid #808080;;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.free {
+    border-bottom: 1px solid #808080;
+     margin-top: 10px;
+    margin-bottom: 10px;
+}
+.total {
+   border-bottom: 1px solid #808080;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.payble {
+    border-bottom: 1px dashed #808080;;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.picture {
+    border: 1px solid #808080;
+        border-radius: 5px;
+    background: #ffffff;
+    margin-top: 30px;
+}
+.add-payment {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    margin-top: 30px;
+    padding: 8px;
+    
+}
+.add-payment h5 {
+    border-bottom: 1px solid #808080;
+    text-align: center;
+    color: #808080;
+    margin-top: 10px;
+    margin-bottom: 10px;  
+}
+.cash-on {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mobile {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.shipping {
+    border: 1px solid #808080;
+    color: #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    margin-top: 30px;
+}
+.accept {
+    font-size: 10px;
+    margin-top: 30px;
+}
+.nearest {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #808080;
+}
+.porceed {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    background: #02A7BC;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}   
+.search {
+    border: 1px solid #808080;
+    background: #02A7BC;
+}
+.order {
+    border: 1px solid #808080;
+    background: #ffffff;
+    color: #02A7BC;
+    padding: 10px;
+    border-radius: 5px;
+}
+.order a {
+    color: #02A7BC;
+}
+.order h5 a {
+    color: #02A7BC;
+}
+.Dont-1 {
+    border: 1px solid #808080;
+    border-radius: 5px;
+    color: #02A7BC;
+    padding: 10px;
+}
+.Dont-1 select {
+    color: #02A7BC;
+    border: none;
+}
+.messege {
+    color: white;
+    background: #02A7BC;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.Dont-1 p {
+    color: #808080;
+    font-size: 10px;
+    margin-left: 40px;
+}
+.search {
+    border: none;
+    border-radius: 5px;
+}
+.search a {
+    color: black;
+}
+.search button {
+    width: 5%;
+    height: 5%;
+}
+
