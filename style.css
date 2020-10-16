@@ -515,8 +515,9 @@ font-size: xx-large;
 .now {
     color: #ffffff; 
 }
-.background {
-background : #E1ECEE;
+.background-color-1 {
+    background : #E1ECEE;
+    display: block;
 }
 .cart {
     border: 1px solid #808080;
@@ -524,6 +525,7 @@ background : #E1ECEE;
     background: #ffffff;
     margin-top: 30px;
     color: #808080;
+    display: block;
 }
 .summary {
     border: 1px solid #808080;
@@ -533,6 +535,7 @@ background : #E1ECEE;
     margin-top: 30px;
     padding: 10px;
     margin-bottom: 10px;
+    display: block;
 }
 .summary h4 {
     border-bottom: 1px solid #808080;
@@ -566,6 +569,7 @@ background : #E1ECEE;
         border-radius: 5px;
     background: #ffffff;
     margin-top: 30px;
+    display: block;
 }
 .add-payment {
     border: 1px solid #808080;
@@ -573,6 +577,7 @@ background : #E1ECEE;
     background: #ffffff;
     margin-top: 30px;
     padding: 8px;
+    display: block;
     
 }
 .add-payment h5 {
@@ -600,10 +605,12 @@ background : #E1ECEE;
     border-radius: 5px;
     background: #ffffff;
     margin-top: 30px;
+    display: block;
 }
 .accept {
     font-size: 10px;
     margin-top: 30px;
+    display: block;
 }
 .nearest {
     border: 1px solid #808080;
@@ -612,6 +619,7 @@ background : #E1ECEE;
     margin-top: 30px;
     margin-bottom: 30px;
     color: #808080;
+    display: block;
 }
 .porceed {
     border: 1px solid #808080;
@@ -620,6 +628,7 @@ background : #E1ECEE;
     color: #fff;
     margin-top: 30px;
     margin-bottom: 30px;
+    display: block;
 }   
 .search {
     border: 1px solid #808080;
@@ -670,5 +679,11 @@ background : #E1ECEE;
 .search button {
     width: 5%;
     height: 5%;
+}
+.footer-top {
+    border: none.
+}
+.backgorund-1 {
+    background: #E1ECEE;
 }
 
