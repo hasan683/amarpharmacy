@@ -684,10 +684,12 @@ font-size: xx-large;
     background: #E1ECEE;
 }
 .login-page {
+    width: 540px;
+    height: 780px;
     border: 1px solid #707070;
     background: #ffffff;
 }
-login-page h4 {
+.login-page h4 {
     text-decoration: underline;
     text-align: center;
 }
@@ -699,7 +701,11 @@ login-page h4 {
     height: 42px;
     text-align: center;
 } 
+.password {
+    margin-right: 2px;
+}
 .forgot-password {
+    margin-right: 60px;
     display: block;
     text-align: end;
 }
@@ -711,11 +717,13 @@ login-page h4 {
     text-decoration: underline;
 }
 .remember {
-    margin-left: 18px;
+    margin-top: 30px;
+    margin-left:75px;
     color: #707070;
 }
 .log {
     text-align: center;
+    margin-top: 30px;
 } 
 .log button {
     border: #707070;
@@ -726,9 +734,11 @@ login-page h4 {
     text-align: center;
 }
 .dont-2 {
+    margin-top: 30px;
     text-align: center;
 }
 .registar {
+    margin-top: 30px;
     text-align: center;
 }
 .registar button {
@@ -737,4 +747,87 @@ login-page h4 {
     width: 158.94px;
     height: 35.74px;
     border: 1px solid #02A7BC ;
+}
+.background-color-2 {
+    background: #E1ECEE;
+}
+.register-page {
+    width: 540px;
+    height: 751px;
+    background: #ffffff;
+    border: 1px solid #707070;
+    border-radius: 5px;
+    display: block;
+}
+.register-page h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+.full-name input {
+    text-align: start;
+    margin-top: 30px;
+    width: 410px;
+    height: 42px;
+    margin-left: 58px;
+}
+.phone input {
+    text-align: start;
+    margin-top: 30px;
+    width: 410px;
+    height: 42px;
+     margin-left: 58px;
+}
+.email input {
+    text-align: start;
+    margin-top: 30px;
+    width: 410px;
+    height: 42px;
+     margin-left: 58px;
+}
+.password input {
+    text-align: start;
+    margin-top: 30px;
+    width: 410px;
+    height: 42px;
+     margin-left: 58px;
+}
+.i-agree {
+    margin-left: 75px;
+    margin-top: 30px;
+}
+.i-agree a {
+    color: #02A7BC;
+}
+.i-agree a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+.i-agree .form-check-input {
+    background: #02A7BC;
+}
+.registar-1  {
+    margin-top: 30px;
+    text-align: center;
+}
+.registar-1 button {
+    width: 158.94px;
+    height: 36.57px;
+    background:#02A7BC; 
+    border: 1px solid #707070;
+    color: #ffffff;
+}
+.alredy {
+    margin-top: 30px;
+    text-align: center;
+}
+.login-now {
+    margin-top: 30px;
+    text-align: center;
+}
+.login-now button {
+    width: 158.94px;
+    height: 35.74px;
+    background: #ffffff;
+    color: #02A7BC;
+    border: 1px solid #707070;
 }
