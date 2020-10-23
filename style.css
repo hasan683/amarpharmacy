@@ -688,6 +688,7 @@ font-size: xx-large;
     height: 780px;
     border: 1px solid #707070;
     background: #ffffff;
+    margin-top: 30px;
 }
 .login-page h4 {
     text-decoration: underline;
@@ -758,6 +759,7 @@ font-size: xx-large;
     border: 1px solid #707070;
     border-radius: 5px;
     display: block;
+    margin-top: 30px;
 }
 .register-page h4 {
     text-align: center;
@@ -830,4 +832,163 @@ font-size: xx-large;
     background: #ffffff;
     color: #02A7BC;
     border: 1px solid #707070;
+}
+.container .col-sm-4 {
+text-align: center;
+}
+.background-3 {
+    background: #E1ECEE;
+}
+.my {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin-top: 30px;
+    background: #ffffff;
+    width: 255px;
+    height: 542px;
+}
+.my-account {
+    border: 1px solid #707070;
+    border-radius: 5px;
+    background: #02A7BC;
+    padding: 10px;
+    color: #ffffff;
+}
+.my-orders {
+    border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.my-list {
+       border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.my-wishlist {
+        border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.my-rating {
+        border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.my-blace {
+    border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.my-points {
+        border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.my-appintment {
+        border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.my-prescriotion {
+        border-bottom: 1px solid #707070;
+    color: #808080;
+    padding: 10px;
+}
+.basic {
+    margin-top: 30px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background: #ffffff;
+    width: 635px;
+    height: 542px;
+}
+.basic-info {
+    text-decoration: underline;
+    color: #02A7BC;
+    padding: 10px;
+}
+.name {
+    color: #808080;
+    text-align: start;
+}
+.date-of-birth {
+    color: #808080;
+    text-align: start;
+}
+.gender {
+    color: #808080;
+    text-align: start;
+}
+.border-1 {
+    border-bottom: 2px solid #E1ECEE;
+}
+.sagor {
+    text-align: start;
+    color: black;
+}
+.contact {
+    margin-left: 50px;
+    color: #808080;
+    text-align: start;
+}
+.number {
+    margin-top: 13px;
+}
+.mail {
+    text-align: start;
+    color: black;
+    margin-left: 30px;
+}
+.contact-info {
+    text-decoration: underline;
+    color: #02A7BC;
+    padding: 10px;
+}
+.eidit {
+    margin-top: 30px;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 635px;
+    height: 691px;
+}
+.basic-1 {
+    color: #02A7BC;
+    padding: 5px;
+    text-decoration: underline;
+}
+.basic-1 button {
+    background: #02A7BC;
+    color: #ffffff;
+    width: 75px;
+    height: 32px;
+    border: 1px solid #707070;
+}
+.color-1 {
+    color: #808080;
+    text-align: start;
+}
+.color-1 h6 {
+     margin-bottom: 15px;   
+}
+
+.typeyour-name input {
+    color: #707070;
+    width: 394px;
+    height: 25px;
+    margin-bottom: 10px;
+} 
+.birth-date input {
+    color: #707070;
+    width: 255px;
+    height: 25px;
+    margin-bottom: 10px;
+}
+.gander-1 input {
+    color: #707070;
+    margin-bottom: 30px;
+}
+.contact-1 {
+    color: #808080;
+    text-align: start;
 }
