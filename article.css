@@ -1,0 +1,436 @@
+
+a, a:hover{
+	text-decoration: none;
+	color:white;
+}
+.footer-bottom li{
+	display: inline;
+}
+.juel li{
+	padding-left:20px ;
+}
+.sourov{
+border-bottom:2px solid black;	
+
+}
+.footer{
+background-color:#F0F0F0;
+}
+.footer-bottom{
+margin-top:40px ;
+
+}
+
+h1 a, h1 a:hover{
+color:#FFFFFF;
+}
+.a{
+	color:lightblue;
+		
+}
+
+	
+	
+
+.border-bottom{
+	border-bottom:2px solid black;
+	padding-bottom:20px;
+	OVERFLOW:HIDDEN;
+}
+.header-top{
+width:1200px;	
+height:150px;
+background-color:blue;
+margin-top:20px;	
+}
+.top{
+	background-color:#02A7BC ;
+padding-top: 36px;
+padding-bottom: 36px;
+
+}
+h1{
+color:#FFFFFF;
+padding-left: 145px;
+}
+.bottom{
+	background-color:#02A7BC;
+margin-top: 2px;
+margin-bottom: 40px;
+}
+.all-Categories{
+border-right: 4px solid white;
+padding-top: 20px;
+padding-left:211px;
+}
+.language{
+border-left: 4px solid #FFFFFF ;
+padding-top: 20px;
+}
+.everything{
+padding-top: 20px;
+
+}
+.pic{
+	
+	margin-top: 40px;
+}
+.mx{
+	color:lightblue;
+	margin-top: 12px;
+}
+.vedio{
+border-bottom: 2px solid black;
+}
+.volt{
+background-color: lightblue;
+padding:20px;
+font-size: small;
+
+}
+.align{
+	text-align: center;
+	margin-top: 24px;
+	color:lightblue;
+}
+
+.pink{
+	border:1px solid #707070  ;
+	border-top: 25px solid #A3D8E6 ;
+	margin-top: 25px;
+	padding-bottom: 30px;
+}
+.order-medicine{
+	padding-left: 23px;
+	padding-top: 18px;
+}
+.joy img{
+	position: absolute;
+	top: -25px;
+}
+.order-now{
+	padding-left: 33px;
+	padding-top: 80px;	
+}
+.white{
+	border:1px solid #707070  ;
+	border-top: 25px solid #A3D8E6 ;
+	margin-top: 25px;
+	padding-bottom: 30px;
+
+}
+.healthcare-products{
+	padding-left: 23px;
+	padding-top: 18px;
+
+}
+.babycare-products{
+	padding-left: 23px;
+	padding-top: 18px;
+}
+
+	
+
+.form-control{
+	padding-left: 417px;
+}
+.itmes{
+color:white;
+padding-left: 20px;
+
+}
+.login{
+	color:white;
+	padding-left: 20px;
+}
+.footer-top{
+	border-bottom:2px solid black;
+}
+.quantam{
+	padding-left: 93px;
+}
+.privacy{
+	padding-left: 28px;
+}
+.terms{
+	padding-left: 24px;
+}
+li{
+	list-style-type: none;
+	padding-bottom: 10px;
+}
+.footer-top{
+	margin-top: 58px;
+                        
+}
+.background-color{
+	background-color: lightgrey;
+}
+.daily-essential{
+	background-color: #707070; 
+}
+.sd{
+	margin-top: 38px;
+
+}
+.company{
+	padding-left: 0px;
+	margin-top: 37px;
+}
+.featured-categories{
+margin-top: 37px;
+padding-left: 0px;
+}
+.need-help{
+	margin-top: 37px;
+}
+.follow-us{
+	margin-top: 37px;
+
+}
+.mahmud-hossain{
+	padding-top: 34px;
+}
+health-articles{
+	margin-top: 34px;
+}
+.amarpharma{
+	padding-top: 45px;
+}
+.quetetion{
+font-size: xx-large;
+}
+.btn{
+	padding-left: 0px;
+}
+.ebd{
+	font-size: large;
+}
+.diabetic-care{
+	background-color: lightgrey;
+}
+.personal-care{
+	background-color: lightgrey;
+}
+.nutrition{
+	background-color: lightgrey;
+}
+.front {
+    background: #CCCCCC;
+    text-align: center;
+    
+}
+.front-1 {
+    background: #EDF9F1;
+    text-align: center;
+}
+.front-2 {
+    background: #EBF7F7;
+    text-align: center;
+}
+.front-3 {
+    background: #EBF7F7;
+    text-align: center;
+}
+.front-4 {
+    background: #FAEFF5;
+    text-align: center;
+}
+.front-5 {
+    background: #FAEFF5;
+    text-align: center;
+}
+.front-6 {
+    background: #F4ECE9;
+    text-align: center;
+}
+.front-7 {
+    background: #F4ECE9;
+    text-align: center;
+}
+.daily-essential {
+    background: #E8F2E9;
+    font-size: 21px;
+}
+.h6-1 {
+    margin-bottom: 10px;
+    background: #ffffff;
+    text-align: center;
+}
+.h6-2 {
+    margin-bottom: 10px;
+    background: #ffffff;
+    text-align: center;
+}
+.h6-3 {
+    margin-bottom: 10px;
+    background: #ffffff;
+    text-align: center;
+}
+.h6-4 {
+    margin-bottom: 10px;
+    background: #ffffff;
+    text-align: center;
+    
+}
+.diabetic-care {
+    background: #E6F5F2;
+    font-size: 21px;
+}
+.Diabetic {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.Diabetic-2 {
+    background:  #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.Diabetic-3 {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.Diabetic-4 {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.personal-care {
+    background: #E9F1F4;
+    font-size: 21px;
+    color: 
+}
+.care {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.care-1 {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.care-2 {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.care-3{
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.Nutrition {
+    background: #F4ECE9;
+    font-size: 21px;
+}
+.vitamin {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.vitamin-1 {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.vitamin-2 {
+    background: #ffffff;
+    text-align:center;
+    margin-top: 10px;
+}
+.vitamin-3 {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*deatilpage style
+
+.pink{
+border:1px solid #707070  ;
+	border-top: 25px solid #A3D8E6 ;
+	margin-top: 25px;
+	padding-bottom: 30px;
+}
+.joy img{
+	position: absolute;
+	top: -25px;
+}*/
+
+.horlics-and-powder{
+    background-color: lightblue;
+    margin-top: 10px;
+}
+.horlics{
+    padding: 10px;
+}
+.daily-foods{
+    background-color: lightblue;
+    margin-top: 10px;
+}
+.foods{
+    padding: 10px;
+}
+.groviva{
+    margin-top: 25px;
+}
+.Groviva-Mango-Extra-Protein-1-Kg{
+    margin-top: 25px;
+    font-size: 40px;
+}
+.by-amarpharmacy{
+    color:#02A7BC;
+    font-size: 20px;
+}
+.our-price{
+  font-size: 25px;
+    margin-top: 15px;
+}
+.off{
+color:#02A7BC; 
+    font-size:20px;
+}
+.regular-price{
+    font-size:25px;
+}
+.p-3{
+    color:#808080;
+}
+.buy-now{
+  background-color: #008CBA;
+padding:10px 50px;
+    
+}
+.add-to-cart{
+    background-color: white; 
+  color: blue; 
+  border: 2px solid #008CBA;
+    padding: 10px 50px;
+    margin-left:15px;
+}
+.border-2{
+    border-bottom: 2px solid black;
+    padding-top: 2opx;
+}
+/*deatilpage style*/
+.doctor{
+    margin-top: 30px;
+}
+.Articles-Title-Here{
+    margin-top: 35px;
+     color: #02A7BC;
+}
+.Professo-Doctor-Name-Here{
+    font-size: small;
+}
+.footer-bottom{
+   padding-left: 255px;
+}
+.lorem{
+font-size: 25px;
+    font-family: Roboto;
+}
