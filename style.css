@@ -104,13 +104,14 @@ font-size: small;
 .joy img{
 	position: absolute;
 	top: -25px;
+    left: 15px;
 }
 .order-now{
 	padding-left: 33px;
 	padding-top: 80px;	
 }
 .white{
-	border:1px solid #707070  ;
+	border:1px solid #707070;
 	border-top: 25px solid #A3D8E6 ;
 	margin-top: 25px;
 	padding-bottom: 30px;
@@ -526,6 +527,8 @@ font-size: xx-large;
     margin-top: 30px;
     color: #707070;
     display: block;
+    width: 730px;
+    height: 150px;
 }
 .summary {
     border: 1px solid #707070;
@@ -536,6 +539,8 @@ font-size: xx-large;
     padding: 10px;
     margin-bottom: 10px;
     display: block;
+    width: 350px;
+    height: 392px;
 }
 .summary h4 {
     border-bottom: 1px solid #707070;
@@ -566,10 +571,11 @@ font-size: xx-large;
 }
 .picture {
     border: 1px solid #707070;
-        border-radius: 5px;
+    border-radius: 5px;
     background: #ffffff;
     margin-top: 30px;
-    display: block;
+    width: 730px;
+    height: 268px;
 }
 .add-payment {
     border: 1px solid #707070;
@@ -577,7 +583,10 @@ font-size: xx-large;
     background: #ffffff;
     margin-top: 30px;
     padding: 8px;
+    width: 350px;
+    height: 277px;
     display: block;
+    
     
 }
 .add-payment h5 {
@@ -605,6 +614,8 @@ font-size: xx-large;
     border-radius: 5px;
     background: #ffffff;
     margin-top: 30px;
+    width: 730px;
+    height: 331;
     display: block;
 }
 .accept {
@@ -619,6 +630,8 @@ font-size: xx-large;
     margin-top: 30px;
     margin-bottom: 30px;
     color: #707070;
+    width: 730px;
+    height: 46px;
     display: block;
 }
 .porceed {
@@ -628,6 +641,8 @@ font-size: xx-large;
     color: #fff;
     margin-top: 30px;
     margin-bottom: 30px;
+    width: 350px;
+    height: 41px;
     display: block;
 }   
 .search {
@@ -991,4 +1006,407 @@ text-align: center;
 .contact-1 {
     color: #808080;
     text-align: start;
+}
+.img {
+    margin-top: 30px;
+    width: 400px;
+    height: 269px;
+}
+.professor {
+    color: black;
+    text-decoration: underline;
+}
+.taitel {
+    margin-top: 30px;
+    color: #02A7BC;
+}
+.passege {
+    margin-top: 30px;
+    color: #808080;
+    text-decoration: inherit;
+}
+.border-2 {
+    border-bottom: 1px solid #02A7BC;
+}
+.health-1 {
+    margin-bottom: 30px;
+}
+.up {
+    margin-top: 30px;
+}
+.vitamin-3 {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background: #D2F6FF;
+    width: 350px;
+    height: 100px;
+    text-align: start;
+    color: #6B6B6B;
+}
+.img-1 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.dairy {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background: #FFF1C8;
+    width: 350px;
+    height: 100px;
+    text-align: start;
+    color: #6B6B6B;
+}
+.img-2 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.baby {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background: #E2FFBA;
+    width: 350;
+    height: 100px;
+    text-align: start;
+    color: #6B6B6B;
+}
+.img-3 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.img-4 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.img-5 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.img-6 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.dirry-1 {
+    border: 1px solid #707070;
+    width: 350px;
+    height: 151px;
+}
+.dairy-2 {
+    border: 1px solid #ffffff;
+    background: #FDBF40;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+
+.dairy-3 {
+    border: 1px solid #ffffff;
+    background: #FFF1C8;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+
+.dairy-4 {
+    border: 1px solid #ffffff;
+    background: #FFF1C8;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-5 {
+    border: 1px solid #ffffff;
+    background: #FFF1C8;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-6 {
+    border: 1px solid #ffffff;
+    background: #FFF1C8;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-7 {
+    border: 1px solid #ffffff;
+    background: #FFF1C8;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-food-1 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;   
+}
+.dairy-food-2 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;
+   
+}
+.dairy-food-3 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;
+    
+}
+.dairy-food-4 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;
+    
+}
+.dairy-food-5 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;
+   
+}
+.dairy-food-6 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;
+}
+.dairy-food-7 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;
+    
+}
+.dairy-food-8 {
+    border: 1px solid #FDBF40;
+    background: #ffffff;
+    
+}
+.dirry-1-1 {
+    border: 1px solid #02A7BC;
+    width: 350px;
+    height: 151px;
+}
+.dairy-2-1 {
+    border: 1px solid #ffffff;
+    background: #02A7BC;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+
+.dairy-3-1 {
+    border: 1px solid #ffffff;
+    background: #D2F6FF;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+
+.dairy-4-1 {
+    border: 1px solid #ffffff;
+    background: #D2F6FF;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-5-1 {
+    border: 1px solid #ffffff;
+    background: #D2F6FF;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-6-1 {
+    border: 1px solid #ffffff;
+    background: #D2F6FF;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-7-1 {
+    border: 1px solid #ffffff;
+    background: #D2F6FF;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-food-1-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff;   
+}
+.dairy-food-2-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff;
+   
+}
+.dairy-food-3-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff;
+    
+}
+.dairy-food-4-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff;
+    
+}
+.dairy-food-5-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff;
+   
+}
+.dairy-food-6-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff;
+}
+.dairy-food-7-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff;
+    
+}
+.dairy-food-8-1 {
+    border: 1px solid #02A7BC;
+    background: #ffffff; 
+}
+.img-1-1 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.img-2-1 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.img-3-1 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.img-4-1 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.img-5-1 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.img-6-1 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.dirry-1-1-2 {
+    border: 1px solid #8AC249;
+    width: 350px;
+    height: 151px;
+}
+.dairy-2-1-2 {
+    border: 1px solid #ffffff;
+    background: #8AC249;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+
+.dairy-3-1-2 {
+    border: 1px solid #ffffff;
+    background: #E2FFBA;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+
+.dairy-4-1-2 {
+    border: 1px solid #ffffff;
+    background: #E2FFBA;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-5-1-2 {
+    border: 1px solid #ffffff;
+    background: #E2FFBA;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-6-1-2 {
+    border: 1px solid #ffffff;
+    background: #E2FFBA;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-7-1-2 {
+    border: 1px solid #ffffff;
+    background: #E2FFBA;
+    border-radius: 5px;
+    text-align: start;
+    width: 350px;
+    height: 100px;
+}
+.dairy-food-1-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff;   
+}
+.dairy-food-2-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff;
+   
+}
+.dairy-food-3-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff;
+    
+}
+.dairy-food-4-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff;
+    
+}
+.dairy-food-5-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff;
+   
+}
+.dairy-food-6-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff;
+}
+.dairy-food-7-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff;
+    
+}
+.dairy-food-8-1-2 {
+    border: 1px solid #8AC249;
+    background: #ffffff; 
+}
+.img-1-1-2 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.img-2-1-2 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.img-3-1-2 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.img-4-1-2 {
+    padding: 10px;
+    margin-top: 10px;
+}
+.img-5-1-2 {
+     padding: 10px;
+    margin-top: 10px;
+}
+.img-6-1-2 {
+     padding: 10px;
+    margin-top: 10px;
 }
