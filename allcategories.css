@@ -143,7 +143,9 @@ padding-left: 20px;
 	color:white;
 	padding-left: 20px;
 }
-
+.footer-top{
+	border-bottom:2px solid black;
+}
 .quantam{
 	padding-left: 93px;
 }
@@ -451,6 +453,61 @@ padding:10px 50px;
 font-size: 25px;
     font-family: Roboto;
 }
-.am{
-    border-bottom: 2px solid black;
+/*deatilpage style*/
+.pink{
+    margin-top: 5px;
+}
+.white{
+    margin-top: 5px;
+}
+.red{
+    margin-top: 5px;
+}
+.button{
+    padding-left: 100px;
+}
+.white{
+    border-top: 25px solid #FDBF40 ;
+}
+.red{
+    border-top: 25px solid #ACDE71;
+}
+.order-medicine{
+    color:#A3D8E6
+}
+.healthcare-products{
+    color:#FDBF40;
+}
+.babycare-products{
+    color:#ACDE71;
+}
+.fine{
+    border-bottom: 2px solid lightblue;
+}
+.vitamin-medicine{
+    background-color: #D2F6FF;
+    margin-top: 25px;
+}
+.surgical-medicine{
+     background-color: #D2F6FF; 
+     margin-top: 25px;
+}
+.dairy-foods{
+    background-color: #FFF1C8;
+     margin-top: 25px;
+}
+.horlics-powder{
+     background-color: #FFF1C8;
+     margin-top: 25px;
+}
+.baby-diaper{
+    background-color: #E2FFBA;
+     margin-top: 25px;
+}
+.baby-nutrition{
+    background-color: #E2FFBA;
+     margin-top: 25px;
+}
+.fa fa-arrow-right{
+    color:#02A7BC;
 }
