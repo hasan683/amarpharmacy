@@ -1141,43 +1141,62 @@ text-align: center;
     height: 100px;
 }
 .dairy-food-1 {
-    border: 1px solid #FDBF40;
     background: #ffffff;   
 }
 .dairy-food-2 {
-    border: 1px solid #FDBF40;
     background: #ffffff;
    
 }
 .dairy-food-3 {
-    border: 1px solid #FDBF40;
     background: #ffffff;
     
 }
 .dairy-food-4 {
-    border: 1px solid #FDBF40;
     background: #ffffff;
     
 }
 .dairy-food-5 {
-    border: 1px solid #FDBF40;
     background: #ffffff;
    
 }
 .dairy-food-6 {
-    border: 1px solid #FDBF40;
     background: #ffffff;
 }
 .dairy-food-7 {
-    border: 1px solid #FDBF40;
     background: #ffffff;
     
 }
 .dairy-food-8 {
-    border: 1px solid #FDBF40;
-    background: #ffffff;
-    
+    background: #ffffff;  
 }
+.taitel-1 {
+    color: #FDBF40;
+}
+.btn-1 .btn {
+    text-align: center;
+}
+.btn-01 button {
+    border: 1px solid #FDBF40;
+    width: 108px;
+    height: 31px;
+    background: #FDBF40;
+    color: #ffffff;
+}
+.btn-1 button  {
+    border: 1px solid #FDBF40;
+    width: 108px;
+    height: 31px;
+    background: #ffffff;
+    color: #FDBF40;
+}
+.btn-1 .btn {
+    text-align: center;
+}
+.btn-1 button:hover {
+    background: #FDBF40;
+    color: #ffffff;
+}
+
 .dirry-1-1 {
     border: 1px solid #02A7BC;
     width: 350px;
@@ -1234,41 +1253,64 @@ text-align: center;
     height: 100px;
 }
 .dairy-food-1-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff;   
 }
 .dairy-food-2-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff;
    
 }
 .dairy-food-3-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff;
     
 }
 .dairy-food-4-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff;
     
 }
 .dairy-food-5-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff;
    
 }
 .dairy-food-6-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff;
 }
 .dairy-food-7-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff;
     
 }
 .dairy-food-8-1 {
-    border: 1px solid #02A7BC;
     background: #ffffff; 
+}
+.Add-01 {
+    text-align: center;
+}
+.price {
+    text-align: center;
+}
+.orange-1 {
+    text-align: center;
+}
+.Add-01 button {
+    width: 108px;
+    height: 31px;
+    border: 1px solid #02A7BC;
+    background: #02A7BC;
+    color: #ffffff;
+}
+.Add-1 {
+    text-align: center;
+}
+.Add-1 button {
+    text-align: center;
+    width: 108px;
+    height: 31px;
+    border: 1px solid #02A7BC;
+    background: #ffffff;
+    color: #02A7BC;
+}
+.Add-1 button:hover {
+    background: #02A7BC;
+    color: #ffffff;
 }
 .img-1-1 {
     padding: 10px;
@@ -1295,12 +1337,10 @@ text-align: center;
     margin-top: 10px;
 }
 .dirry-1-1-2 {
-    border: 1px solid #8AC249;
     width: 350px;
     height: 151px;
 }
 .dairy-2-1-2 {
-    border: 1px solid #ffffff;
     background: #8AC249;
     border-radius: 5px;
     text-align: start;
@@ -1309,7 +1349,6 @@ text-align: center;
 }
 
 .dairy-3-1-2 {
-    border: 1px solid #ffffff;
     background: #E2FFBA;
     border-radius: 5px;
     text-align: start;
@@ -1318,7 +1357,6 @@ text-align: center;
 }
 
 .dairy-4-1-2 {
-    border: 1px solid #ffffff;
     background: #E2FFBA;
     border-radius: 5px;
     text-align: start;
@@ -1326,7 +1364,6 @@ text-align: center;
     height: 100px;
 }
 .dairy-5-1-2 {
-    border: 1px solid #ffffff;
     background: #E2FFBA;
     border-radius: 5px;
     text-align: start;
@@ -1334,7 +1371,6 @@ text-align: center;
     height: 100px;
 }
 .dairy-6-1-2 {
-    border: 1px solid #ffffff;
     background: #E2FFBA;
     border-radius: 5px;
     text-align: start;
@@ -1342,7 +1378,6 @@ text-align: center;
     height: 100px;
 }
 .dairy-7-1-2 {
-    border: 1px solid #ffffff;
     background: #E2FFBA;
     border-radius: 5px;
     text-align: start;
@@ -1350,40 +1385,32 @@ text-align: center;
     height: 100px;
 }
 .dairy-food-1-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff;   
 }
 .dairy-food-2-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff;
    
 }
 .dairy-food-3-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff;
     
 }
 .dairy-food-4-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff;
     
 }
 .dairy-food-5-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff;
    
 }
 .dairy-food-6-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff;
 }
 .dairy-food-7-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff;
     
 }
 .dairy-food-8-1-2 {
-    border: 1px solid #8AC249;
     background: #ffffff; 
 }
 .img-1-1-2 {
@@ -1409,4 +1436,29 @@ text-align: center;
 .img-6-1-2 {
      padding: 10px;
     margin-top: 10px;
+}
+.button-add-1 button {
+    text-align: center;
+    color: #ffffff;
+    border: 1px solid #8AC249;
+    width: 108px;
+    height: 31px;
+    background: #8AC249;
+}
+.button-add .button {
+        text-align: center;
+}
+.button-add button {
+    border: 1px solid #8AC249;
+     width: 108px;
+    height: 31px;
+    background: #ffffff;
+    color: #8AC249;
+}
+.button-add button:hover {
+    background: #8AC249;
+    color: #ffffff;
+}
+.our-price {
+    text-align: center;
 }
